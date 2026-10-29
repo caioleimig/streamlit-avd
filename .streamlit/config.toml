@@ -1,20 +1,27 @@
-# Configuração do Streamlit. Descomente e ajuste conforme o projeto avançar.
-# O tema pode ser trocado pelo menu ⋮ → Settings → Choose app theme.
+# Identidade visual do app — tema "delivery de comida"
+# Laranja (apetite, ação) como cor de destaque e azul como contraponto nos gráficos.
+# As duas cores dos gráficos (#D45F0A e #3F6FB5) foram validadas para daltonismo
+# e contraste nos fundos claro e escuro. Os mesmos valores estão em src/config.py.
 
 [theme]
-paddingTop = "0.0rem"     # espaço abaixo da barra do topo (valor entre aspas)
-# font = "sans serif"     # "sans serif", "serif" ou "monospace"
+paddingTop = "1.5rem"
+font = "'Nunito':https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap"
+headingFontWeights = [800, 700, 700, 700, 600, 600]
+baseRadius = "10px"
+showWidgetBorder = true
 
 [theme.light]
-primaryColor = "#c1121f"            # cor de destaque (widgets, links): mesmo vermelho dos histogramas
-backgroundColor = "#ffffff"         # fundo da página
-secondaryBackgroundColor = "#f0f2f6"  # fundo da sidebar e de widgets
-textColor = "#31333f"               # cor do texto
-borderColor = "#d5dae5"
+primaryColor = "#D45F0A"              # cor de destaque (sliders, pills, links)
+backgroundColor = "#FFFAF3"           # fundo creme quente
+secondaryBackgroundColor = "#F6EBDD"  # fundo da sidebar e dos widgets
+textColor = "#2B2118"                 # texto marrom-escuro
+borderColor = "#E6D6C3"
+chartCategoricalColors = ["#D45F0A", "#3F6FB5"]
 
 [theme.dark]
-primaryColor = "#c1121f"
-backgroundColor = "#0e1117"
-secondaryBackgroundColor = "#262730"
-textColor = "#fafafa"
-borderColor = "#41444e"
+primaryColor = "#E07020"
+backgroundColor = "#16120F"
+secondaryBackgroundColor = "#261F1A"
+textColor = "#F5EDE4"
+borderColor = "#3D332B"
+chartCategoricalColors = ["#D45F0A", "#3F6FB5"]
