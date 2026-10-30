@@ -103,7 +103,7 @@ O dataset é público (Kaggle) e não contém nomes, documentos ou contatos. O C
 
 ## Entregas da atividade
 
-- Rascunhos de layout: [entregas/rascunho-dashboard1.png](entregas/rascunho-dashboard1.png) e [entregas/rascunho-dashboard2.png](entregas/rascunho-dashboard2.png)
+- Wireframes de layout (versão limpa gerada com IA): [entregas/wireframe-dashboard1.png](entregas/wireframe-dashboard1.png) e [entregas/wireframe-dashboard2.png](entregas/wireframe-dashboard2.png)
 - Justificativa das métricas: [entregas/justificativa-metricas.md](entregas/justificativa-metricas.md)
 - Declaração de uso de IA: [prompts/declaracao-uso-ia.md](prompts/declaracao-uso-ia.md)
 - Passo a passo das aulas: [ROTEIRO.md](ROTEIRO.md)

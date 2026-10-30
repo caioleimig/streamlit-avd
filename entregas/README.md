@@ -6,20 +6,23 @@ Artefatos de entrega que não são sobre uso de IA (isso fica em [`prompts/`](..
 |-------------------------------|-----------|-----------------------------------------------------------------------------------------------|
 | `rascunho-dashboard1.jpg`/`.png`     | Aula 21   | Foto do rascunho do layout do Dashboard 1, feito antes de codar                               |
 | `rascunho-dashboard2.jpg`/`.png`     | Aula 22   | Mesma ideia, para o Dashboard 2 — desenhado só depois de definir widgets, variáveis e métricas |
+| `wireframe-dashboard1.png` / `wireframe-dashboard2.png` | — | Versão limpa dos layouts, gerada com IA |
 | `justificativa-metricas.md`   | Aula 22   | Por que cada métrica/KPI do Dashboard 2 foi escolhida e o que ela comunica ao público-alvo     |
 
 ## Checklist — Aula 21
 
-- [x] `rascunho-dashboard1.png`
+- [ ] `rascunho-dashboard1.jpg` (foto do rascunho à mão)
+- [x] `wireframe-dashboard1.png`
 
 ## Checklist — Aula 22
 
-- [x] `rascunho-dashboard2.png`
+- [ ] `rascunho-dashboard2.jpg` (foto do rascunho à mão)
+- [x] `wireframe-dashboard2.png`
 - [x] `justificativa-metricas.md` preenchido (não só criado vazio)
 
 ## Checklist — entrega final (Aula 23)
 
-- [x] Os dois rascunhos
+- [ ] Os dois rascunhos
 - [x] `justificativa-metricas.md` completo
 
 ## Modelo de `justificativa-metricas.md`
