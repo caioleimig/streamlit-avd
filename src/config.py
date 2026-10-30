@@ -1,3 +1,4 @@
+# [IA] Claude Code – identidade visual (paleta validada para daltonismo)
 # laranja = resposta positiva, azul = negativa (mesmas cores do .streamlit/config.toml)
 cor_positiva = "#D45F0A"
 cor_negativa = "#3F6FB5"

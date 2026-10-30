@@ -1,3 +1,4 @@
+# [IA] Claude Code – sintaxe dos gráficos Altair
 import altair as alt
 import pandas as pd
 

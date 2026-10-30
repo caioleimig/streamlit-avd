@@ -1,3 +1,4 @@
+# [IA] Claude Code + streamlit skills – esqueleto do app.py a partir do meu rascunho de layout
 import altair as alt
 import streamlit as st
 from scipy import stats
@@ -51,6 +52,7 @@ st.caption(
 )
 
 # sidebar: filtros do dashboard 1
+# [IA] Claude Code + streamlit skills – widgets e filtros do dashboard 1
 with st.sidebar:
     st.header(":material/tune: Filtros do Dashboard 1")
     st.caption("Controlam a aba **Correlação e distribuição**. O Dashboard 2 tem filtros próprios no topo da aba.")
@@ -87,6 +89,7 @@ if sem_outliers:
 
 aba1, aba2 = st.tabs([":material/scatter_plot: Dashboard 1 · Correlação e distribuição", ":material/monitoring: Dashboard 2 · KPIs de satisfação"])
 
+# [IA] Claude Code + streamlit skills – correlação e distribuição (dashboard 1)
 with aba1:
     st.caption(f"**{len(df_d1)}** de {total} clientes dentro dos filtros ({pct(len(df_d1) / total)} da base).")
     col_corr, col_dist = st.columns([1, 1.25], gap="large")
@@ -137,6 +140,7 @@ with aba1:
             st.dataframe(resumo.rename(index=rotulo).round(2), alt="Estatísticas descritivas das variáveis selecionadas")
         st.dataframe(df_d1, hide_index=True, alt="Tabela com os clientes dentro dos filtros")
 
+# [IA] Claude Code + streamlit skills – kpis e gráficos com seleção cruzada (dashboard 2), métricas definidas por mim
 with aba2:
     with st.container(border=True):
         f1, f2, f3, f4 = st.columns([1, 1.6, 1.2, 1.3], vertical_alignment="bottom")

@@ -1,3 +1,4 @@
+# [IA] Claude Code – leitura do csv com cache
 import pandas as pd
 import streamlit as st
 

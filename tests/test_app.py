@@ -1,3 +1,4 @@
+# [IA] Claude Code – testes de borda com AppTest
 """Testes de borda dos dois dashboards, sem abrir navegador (st.testing.v1.AppTest).
 
 Rode da raiz do projeto:  python tests/test_app.py
