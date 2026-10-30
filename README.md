@@ -65,7 +65,7 @@ Requer **Python 3.11 a 3.15**.
 python3 -m venv .venv
 source .venv/bin/activate            # Windows: .venv\Scripts\Activate.ps1
 
-# 2. Instalar dependências (e, opcionalmente, as skills de IA do Streamlit)
+# 2. Instalar dependências do app (e, opcionalmente, as skills de IA do Streamlit)
 python -m pip install -r requirements.txt
 streamlit skills --yes
 
@@ -74,6 +74,12 @@ streamlit run app.py
 
 # 4. (Opcional) Rodar os testes de borda
 python tests/test_app.py
+```
+
+`requirements.txt` tem só o que o app usa (é o que o Streamlit Community Cloud instala). Para rodar os notebooks, instale também as dependências de desenvolvimento (matplotlib, seaborn, Jupyter):
+
+```bash
+python -m pip install -r requirements-dev.txt   # já inclui o requirements.txt
 ```
 
 Para regenerar o dado tratado, execute `notebooks/eda-com-downloads.ipynb` do início ao fim. Ele baixa o CSV bruto do Kaggle para `data/raw/` e exporta `data/clean/dataset.csv`.
