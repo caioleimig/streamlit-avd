@@ -26,8 +26,8 @@ Em seguida enviei a minha EDA da Aula 11 (Online Food Delivery) como base. Os pr
 
 ## O que foi aceito, modificado ou rejeitado
 
-- **Aceito:** duas abas com filtros na sidebar (Dashboard 1) e no topo (Dashboard 2); a implementação das 4 métricas que defini; cache e caminhos relativos.
-- **Modificado:** renda e escolaridade entraram como ordinais (Spearman padrão); paleta trocada por laranja + azul, legível para daltonismo; correção da formatação dos deltas dos KPIs.
+- **Aceito:** o código que implementa o layout dos meus rascunhos (duas abas, filtros na sidebar no Dashboard 1 e no topo no Dashboard 2) e as 4 métricas que defini; cache e caminhos relativos.
+- **Modificado:** pedi para incluir renda e escolaridade como ordinais (Spearman padrão); paleta trocada por laranja + azul, legível para daltonismo; correção da formatação dos deltas dos KPIs.
 - **Rejeitado:** mapa com localização dos clientes (latitude, longitude e `Pin code` foram removidos do dado tratado por precaução) e cópia do Dashboard 1 do repositório-modelo.
 
 **Validação:** números do dado tratado conferidos com a EDA (285 linhas, 81,1% de feedback positivo) e testes de borda com `python tests/test_app.py`.
