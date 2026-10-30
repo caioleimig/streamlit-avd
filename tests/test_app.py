@@ -52,14 +52,14 @@ def caso_uma_variavel():
 
 def caso_todas_variaveis_e_metodos():
     app = novo_app()
-    app.multiselect(key="d1_variaveis").set_value(["idade", "tamanho_familia", "renda_nivel", "escolaridade_nivel", "latitude", "longitude"]).run()
+    app.multiselect(key="d1_variaveis").set_value(["idade", "tamanho_familia", "renda_nivel", "escolaridade_nivel"]).run()
     for metodo in ["pearson", "kendall", "spearman"]:
         app.segmented_control(key="d1_metodo").set_value(metodo).run()
         assert not app.exception, metodo
     app.toggle(key="d1_separar").set_value(True).run()
     app.toggle(key="d1_outliers").set_value(True).run()
     assert not app.exception
-    print("ok  6 variáveis × 3 métodos + separar por recompra + remover outliers")
+    print("ok  4 variáveis × 3 métodos + separar por recompra + remover outliers")
 
 
 def caso_intervalo_estreito():

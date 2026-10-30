@@ -14,8 +14,6 @@ VARIAVEIS = {
     "tamanho_familia": {"rotulo": "Tamanho da família", "tipo": "discreta"},
     "renda_nivel": {"rotulo": "Renda mensal (ordinal)", "tipo": "ordinal", "coluna_rotulo": "renda_mensal"},
     "escolaridade_nivel": {"rotulo": "Escolaridade (ordinal)", "tipo": "ordinal", "coluna_rotulo": "escolaridade"},
-    "latitude": {"rotulo": "Latitude", "tipo": "continua"},
-    "longitude": {"rotulo": "Longitude", "tipo": "continua"},
 }
 VARIAVEIS_PADRAO = ["idade", "tamanho_familia", "renda_nivel", "escolaridade_nivel"]
 

@@ -1,286 +1,286 @@
-idade,genero,estado_civil,ocupacao,renda_mensal,escolaridade,tamanho_familia,tipo_cliente,latitude,longitude,pede_novamente,feedback,faixa_etaria,renda_nivel,escolaridade_nivel
-20,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,12.9766,77.5993,Sim,Positivo,18-21,0,3
-24,Feminino,Solteiro(a),Estudante,Até Rs.10 mil,Graduação,3,Regular,12.977,77.5773,Sim,Positivo,22-24,1,2
-22,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,3,Regular,12.9551,77.6593,Sim,Negativo,22-24,1,3
-22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,6,Frequente,12.9473,77.5616,Sim,Positivo,22-24,0,2
-22,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,4,Frequente,12.985,77.5533,Sim,Positivo,22-24,1,3
-27,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,2,Regular,12.9299,77.6848,Sim,Positivo,25-27,4,3
-22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,12.977,77.5773,Sim,Positivo,22-24,0,2
-24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9828,77.6131,Sim,Positivo,22-24,0,3
-23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.9766,77.5993,Sim,Positivo,22-24,0,3
-23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,12.9854,77.7081,Sim,Positivo,22-24,0,3
-22,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,12.985,77.5533,Sim,Positivo,22-24,0,3
-23,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,2,Regular,12.977,77.5773,Sim,Negativo,22-24,1,3
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,12.8988,77.5764,Sim,Positivo,22-24,0,3
-21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,12.977,77.5773,Sim,Positivo,18-21,0,2
-23,Feminino,Solteiro(a),Autônomo(a),Rs.10–25 mil,Pós-graduação,5,Frequente,12.9438,77.5738,Sim,Positivo,22-24,2,3
-24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,6,Frequente,12.8893,77.6399,Sim,Positivo,22-24,0,3
-28,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,12.9783,77.6408,Sim,Positivo,28+,3,3
-23,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,12.982,77.6256,Sim,Negativo,22-24,0,2
-25,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,12.8988,77.5764,Sim,Negativo,25-27,0,2
-21,Feminino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,1,Novo,12.9783,77.6408,Sim,Positivo,18-21,1,3
-24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.977,77.5773,Sim,Positivo,22-24,0,3
-22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,13.0298,77.6047,Sim,Positivo,22-24,0,3
-22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,12.9983,77.6409,Sim,Positivo,22-24,0,2
-23,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,12.9925,77.5633,Sim,Positivo,22-24,0,2
-21,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,3,Regular,12.9306,77.5434,Sim,Positivo,18-21,1,3
-25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.982,77.6256,Sim,Positivo,25-27,0,3
-22,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,12.9353,77.5585,Sim,Positivo,22-24,0,3
-22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9155,77.5135,Sim,Positivo,22-24,0,3
-23,Feminino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,3,Regular,12.9854,77.7081,Sim,Positivo,22-24,2,2
-22,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,4,Frequente,13.0019,77.5713,Sim,Positivo,22-24,1,3
-22,Feminino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,5,Frequente,12.9698,77.75,Sim,Positivo,22-24,2,2
-22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,12.9783,77.6408,Sim,Positivo,22-24,0,3
-25,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,4,Frequente,12.9261,77.6221,Sim,Positivo,25-27,4,4
-22,Feminino,Solteiro(a),Estudante,Rs.10–25 mil,Pós-graduação,5,Frequente,12.985,77.5533,Sim,Positivo,22-24,2,3
-22,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.9119,77.6446,Sim,Positivo,22-24,0,3
-25,Masculino,Solteiro(a),Estudante,Rs.10–25 mil,Pós-graduação,3,Regular,12.9306,77.5434,Sim,Positivo,25-27,2,3
-25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,12.977,77.5773,Não,Positivo,25-27,0,3
-32,Feminino,Prefere não dizer,Do lar,Sem renda,Graduação,5,Frequente,12.982,77.6256,Sim,Negativo,28+,0,2
-23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9438,77.5738,Sim,Positivo,22-24,0,3
-23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,12.8988,77.5764,Sim,Positivo,22-24,0,3
-30,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Sem escolaridade,4,Frequente,12.9662,77.6068,Sim,Negativo,28+,4,0
-23,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,12.9565,77.5484,Sim,Positivo,22-24,0,2
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,12.9925,77.5633,Sim,Positivo,22-24,0,3
-22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,5,Frequente,12.985,77.5533,Sim,Positivo,22-24,0,2
-27,Feminino,Casado(a),Autônomo(a),Rs.10–25 mil,Pós-graduação,2,Regular,12.9261,77.6221,Sim,Positivo,25-27,2,3
-24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.977,77.5773,Sim,Positivo,22-24,0,3
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.977,77.5773,Sim,Positivo,22-24,0,3
-23,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,5,Frequente,13.0206,77.6479,Sim,Positivo,22-24,0,2
-23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.977,77.5773,Sim,Positivo,22-24,0,3
-25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.9635,77.5821,Sim,Positivo,25-27,0,3
-22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9306,77.5434,Sim,Positivo,22-24,0,3
-28,Feminino,Casado(a),Estudante,Sem renda,Graduação,2,Regular,13.0067,77.545,Sim,Positivo,28+,0,2
-22,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,1,Novo,12.8845,77.6036,Sim,Positivo,22-24,0,3
-24,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,12.977,77.5773,Sim,Positivo,22-24,0,2
-31,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,5,Frequente,12.9119,77.6446,Sim,Positivo,28+,4,4
-25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,13.0067,77.545,Sim,Positivo,25-27,0,3
-22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.8845,77.6036,Sim,Positivo,22-24,0,3
-23,Masculino,Solteiro(a),Estudante,Rs.25–50 mil,Pós-graduação,1,Novo,13.0158,77.539,Sim,Positivo,22-24,3,3
-23,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,12.9343,77.6044,Sim,Positivo,22-24,0,2
-23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,13.0019,77.5713,Sim,Positivo,22-24,0,3
-25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,6,Frequente,13.0012,77.5995,Sim,Positivo,25-27,0,3
-24,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,4,Frequente,12.9442,77.6076,Sim,Positivo,22-24,2,2
-23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,13.0487,77.5923,Sim,Positivo,22-24,0,3
-24,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,4,Frequente,12.9438,77.5738,Sim,Positivo,22-24,4,4
-22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,12.9889,77.5741,Sim,Positivo,22-24,0,2
-24,Feminino,Solteiro(a),Estudante,Rs.10–25 mil,Pós-graduação,3,Regular,12.9335,77.5691,Não,Positivo,22-24,2,3
-25,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9766,77.5993,Sim,Positivo,25-27,0,3
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.8845,77.6036,Sim,Positivo,22-24,0,3
-26,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,13.0019,77.5713,Sim,Positivo,25-27,0,3
-24,Feminino,Solteiro(a),Estudante,Rs.25–50 mil,Pós-graduação,3,Regular,13.102,77.5864,Sim,Positivo,22-24,3,3
-26,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,12.9048,77.6821,Sim,Positivo,25-27,0,3
-22,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.977,77.5773,Sim,Positivo,22-24,0,3
-24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,12.9337,77.59,Sim,Positivo,22-24,0,3
-24,Masculino,Solteiro(a),Estudante,Rs.10–25 mil,Pós-graduação,4,Frequente,12.9037,77.5376,Sim,Positivo,22-24,2,3
-23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.977,77.5773,Sim,Positivo,22-24,0,3
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9343,77.6044,Sim,Positivo,22-24,0,3
-22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9438,77.5738,Sim,Positivo,22-24,0,3
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.977,77.5773,Sim,Positivo,22-24,0,3
-24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,12.9783,77.6408,Sim,Positivo,22-24,0,3
-25,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,1,Novo,12.977,77.5773,Sim,Positivo,25-27,0,2
-28,Masculino,Casado(a),Autônomo(a),Rs.10–25 mil,Graduação,2,Regular,13.0289,77.54,Não,Negativo,28+,2,2
-27,Feminino,Prefere não dizer,Empregado(a),Rs.25–50 mil,Pós-graduação,5,Frequente,13.0289,77.54,Não,Positivo,25-27,3,3
-26,Masculino,Solteiro(a),Autônomo(a),Rs.10–25 mil,Doutorado,1,Novo,12.9698,77.75,Não,Positivo,25-27,2,4
-22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.977,77.5773,Sim,Positivo,22-24,0,3
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,1,Novo,12.9561,77.5921,Sim,Positivo,22-24,0,3
-26,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,5,Frequente,12.9579,77.6309,Não,Positivo,25-27,3,2
-32,Feminino,Casado(a),Do lar,Sem renda,Sem escolaridade,3,Regular,13.014,77.5658,Não,Positivo,28+,0,0
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.9442,77.6076,Sim,Positivo,22-24,0,3
-22,Feminino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,3,Regular,12.9698,77.75,Sim,Positivo,22-24,2,2
-24,Feminino,Solteiro(a),Estudante,Sem renda,Doutorado,3,Regular,12.9438,77.5738,Sim,Positivo,22-24,0,4
-26,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,2,Regular,12.9261,77.6221,Sim,Negativo,25-27,3,2
-28,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,3,Regular,12.9698,77.75,Não,Positivo,28+,4,2
-26,Masculino,Solteiro(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,2,Regular,12.9698,77.75,Não,Positivo,25-27,4,3
-25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,1,Novo,12.9343,77.6044,Sim,Positivo,25-27,0,3
-25,Masculino,Solteiro(a),Empregado(a),Até Rs.10 mil,Graduação,2,Regular,12.9698,77.75,Não,Positivo,25-27,1,2
-18,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,5,Frequente,12.9635,77.5821,Sim,Positivo,18-21,0,2
-21,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,12.977,77.5773,Sim,Positivo,18-21,0,3
-25,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,2,Regular,12.9925,77.5633,Sim,Positivo,25-27,1,3
-23,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Pós-graduação,2,Regular,12.985,77.5533,Sim,Positivo,22-24,2,3
-25,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,12.9551,77.6593,Não,Negativo,25-27,3,2
-31,Feminino,Casado(a),Do lar,Sem renda,Ensino básico,5,Frequente,13.0289,77.54,Sim,Positivo,28+,0,1
-24,Masculino,Prefere não dizer,Autônomo(a),Acima de Rs.50 mil,Doutorado,2,Regular,13.0138,77.5877,Não,Positivo,22-24,4,4
-32,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,5,Frequente,12.9261,77.6221,Sim,Positivo,28+,3,2
-25,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,12.9766,77.5993,Sim,Positivo,25-27,3,2
-27,Feminino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,5,Frequente,12.9766,77.5993,Não,Positivo,25-27,4,2
-26,Masculino,Solteiro(a),Autônomo(a),Rs.25–50 mil,Graduação,3,Regular,12.9766,77.5993,Sim,Positivo,25-27,3,2
-26,Feminino,Solteiro(a),Autônomo(a),Rs.25–50 mil,Pós-graduação,3,Regular,12.9635,77.5821,Sim,Positivo,25-27,3,3
-32,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,5,Frequente,12.9635,77.5821,Sim,Negativo,28+,4,4
-24,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Doutorado,6,Frequente,12.9635,77.5821,Não,Negativo,22-24,4,4
-27,Feminino,Casado(a),Autônomo(a),Rs.25–50 mil,Graduação,3,Regular,12.9635,77.5821,Sim,Positivo,25-27,3,2
-25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,12.977,77.5773,Sim,Positivo,25-27,0,3
-28,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,3,Regular,13.0019,77.5713,Sim,Positivo,28+,4,3
-32,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,1,Novo,13.0019,77.5713,Não,Positivo,28+,4,2
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,13.0019,77.5713,Sim,Positivo,22-24,0,3
-19,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,13.0019,77.5713,Não,Negativo,18-21,0,2
-19,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,12.9537,77.6176,Sim,Positivo,18-21,0,2
-27,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,12.9698,77.75,Não,Positivo,25-27,3,3
-25,Masculino,Solteiro(a),Autônomo(a),Rs.25–50 mil,Graduação,3,Regular,12.998,77.6227,Sim,Positivo,25-27,3,2
-33,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,5,Frequente,12.998,77.6227,Não,Negativo,28+,4,4
-26,Feminino,Solteiro(a),Empregado(a),Acima de Rs.50 mil,Graduação,3,Regular,12.998,77.6227,Sim,Positivo,25-27,4,2
-22,Feminino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,4,Frequente,12.9343,77.6044,Sim,Positivo,22-24,1,3
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,13.102,77.5864,Não,Positivo,22-24,0,3
-22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,13.0158,77.539,Sim,Negativo,22-24,0,2
-25,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,2,Regular,12.998,77.6227,Sim,Positivo,25-27,3,2
-30,Feminino,Casado(a),Do lar,Sem renda,Ensino básico,5,Frequente,12.998,77.6227,Sim,Positivo,28+,0,1
-24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,13.0138,77.5877,Não,Negativo,22-24,0,3
-25,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Pós-graduação,3,Regular,13.0138,77.5877,Sim,Positivo,25-27,2,3
-23,Masculino,Solteiro(a),Estudante,Acima de Rs.50 mil,Pós-graduação,3,Regular,12.977,77.5773,Sim,Positivo,22-24,4,3
-24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,13.0496,77.4941,Sim,Positivo,22-24,0,3
-32,Masculino,Casado(a),Empregado(a),Rs.10–25 mil,Graduação,4,Frequente,12.9783,77.6408,Sim,Positivo,28+,2,2
-22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,12.9889,77.5741,Sim,Positivo,22-24,0,3
-20,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.9579,77.6309,Sim,Positivo,18-21,0,2
-21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.9579,77.6309,Sim,Positivo,18-21,0,2
-24,Feminino,Casado(a),Autônomo(a),Rs.10–25 mil,Graduação,5,Frequente,12.9579,77.6309,Sim,Positivo,22-24,2,2
-25,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,3,Regular,12.985,77.5533,Sim,Positivo,25-27,3,3
-32,Feminino,Casado(a),Do lar,Sem renda,Graduação,3,Regular,12.985,77.5533,Sim,Positivo,28+,0,2
-27,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,5,Frequente,12.985,77.5533,Não,Negativo,25-27,4,4
-20,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.9337,77.59,Sim,Positivo,18-21,0,2
-21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.9337,77.59,Sim,Positivo,18-21,0,2
-26,Masculino,Solteiro(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,3,Regular,12.9337,77.59,Não,Negativo,25-27,4,3
-25,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,4,Frequente,13.0166,77.6804,Sim,Positivo,25-27,2,2
-26,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,3,Regular,13.014,77.5658,Sim,Positivo,25-27,3,3
-26,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,13.014,77.5658,Sim,Positivo,25-27,3,2
-27,Masculino,Solteiro(a),Empregado(a),Acima de Rs.50 mil,Doutorado,4,Frequente,13.0503,77.5529,Não,Positivo,25-27,4,4
-27,Feminino,Solteiro(a),Estudante,Sem renda,Doutorado,5,Frequente,13.0503,77.5529,Não,Negativo,25-27,0,4
-24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,12.9883,77.5987,Sim,Positivo,22-24,0,3
-25,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Ensino básico,2,Regular,13.0626,77.5284,Sim,Positivo,25-27,4,1
-20,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,13.0626,77.5284,Não,Negativo,18-21,0,2
-22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,1,Novo,13.0626,77.5284,Sim,Positivo,22-24,0,3
-26,Feminino,Casado(a),Estudante,Até Rs.10 mil,Doutorado,3,Regular,13.0166,77.6804,Sim,Positivo,25-27,1,4
-27,Masculino,Prefere não dizer,Empregado(a),Rs.25–50 mil,Pós-graduação,1,Novo,13.0166,77.6804,Sim,Positivo,25-27,3,3
-25,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9551,77.6593,Sim,Positivo,25-27,0,3
-24,Masculino,Solteiro(a),Empregado(a),Até Rs.10 mil,Graduação,2,Regular,12.9551,77.6593,Sim,Positivo,22-24,1,2
-23,Feminino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,6,Frequente,12.9551,77.6593,Sim,Positivo,22-24,2,2
-22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.957,77.5637,Não,Positivo,22-24,0,2
-26,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Pós-graduação,3,Regular,12.957,77.5637,Não,Negativo,25-27,4,3
-26,Masculino,Solteiro(a),Empregado(a),Até Rs.10 mil,Pós-graduação,1,Novo,12.957,77.5637,Sim,Negativo,25-27,1,3
-25,Feminino,Casado(a),Autônomo(a),Rs.25–50 mil,Pós-graduação,3,Regular,12.957,77.5637,Não,Positivo,25-27,3,3
-29,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,3,Regular,12.957,77.5637,Não,Positivo,28+,4,2
-23,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Graduação,3,Regular,12.8652,77.524,Sim,Negativo,22-24,1,2
-22,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,12.9698,77.75,Sim,Positivo,22-24,3,2
-22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.9889,77.5741,Não,Positivo,22-24,0,2
-32,Feminino,Casado(a),Do lar,Sem renda,Ensino básico,5,Frequente,12.9889,77.5741,Sim,Positivo,28+,0,1
-28,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,1,Novo,12.9925,77.5633,Sim,Positivo,28+,4,3
-25,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,2,Regular,12.9757,77.5586,Sim,Positivo,25-27,2,2
-26,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,12.9757,77.5586,Não,Negativo,25-27,3,3
-31,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Ensino básico,6,Frequente,13.0487,77.5923,Sim,Positivo,28+,4,1
-24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,13.0487,77.5923,Não,Negativo,22-24,0,3
-24,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,12.9662,77.6068,Sim,Positivo,22-24,3,3
-31,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,5,Frequente,12.9662,77.6068,Sim,Positivo,28+,4,4
-26,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,2,Regular,12.9343,77.6044,Sim,Positivo,25-27,3,2
-24,Feminino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,2,Regular,12.9343,77.6044,Sim,Positivo,22-24,4,2
-22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,12.9343,77.6044,Sim,Positivo,22-24,0,2
-19,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,6,Frequente,12.9442,77.6076,Sim,Positivo,18-21,0,2
-25,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,6,Frequente,12.9442,77.6076,Sim,Positivo,25-27,4,3
-23,Feminino,Casado(a),Do lar,Sem renda,Ensino básico,6,Frequente,12.9442,77.6076,Sim,Positivo,22-24,0,1
-23,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,13.0298,77.6047,Não,Negativo,22-24,0,2
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.9261,77.6221,Sim,Positivo,22-24,0,3
-24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,12.9621,77.5376,Sim,Positivo,22-24,0,3
-22,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,12.8845,77.6036,Sim,Positivo,22-24,3,2
-26,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,4,Frequente,12.9048,77.6821,Sim,Positivo,25-27,4,2
-25,Feminino,Solteiro(a),Estudante,Sem renda,Doutorado,3,Regular,12.9048,77.6821,Sim,Positivo,25-27,0,4
-20,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.9261,77.6221,Sim,Positivo,18-21,0,2
-29,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,12.9261,77.6221,Não,Negativo,28+,3,2
-23,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,1,Novo,12.977,77.5773,Sim,Positivo,22-24,0,2
-25,Masculino,Solteiro(a),Autônomo(a),Acima de Rs.50 mil,Graduação,2,Regular,12.9783,77.6408,Sim,Positivo,25-27,4,2
-29,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,12.9783,77.6408,Não,Negativo,28+,3,2
-27,Masculino,Casado(a),Autônomo(a),Rs.25–50 mil,Graduação,6,Frequente,12.9217,77.5936,Não,Negativo,25-27,3,2
-25,Masculino,Solteiro(a),Autônomo(a),Rs.10–25 mil,Graduação,3,Regular,13.0206,77.6479,Sim,Positivo,25-27,2,2
-21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,13.0012,77.5995,Não,Negativo,18-21,0,2
-23,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,13.0223,77.7132,Sim,Positivo,22-24,0,2
-24,Feminino,Solteiro(a),Empregado(a),Rs.10–25 mil,Pós-graduação,4,Frequente,12.9337,77.59,Sim,Positivo,22-24,2,3
-32,Masculino,Casado(a),Autônomo(a),Rs.10–25 mil,Ensino básico,3,Regular,12.982,77.6256,Sim,Negativo,28+,2,1
-28,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Pós-graduação,5,Frequente,13.0262,77.62,Sim,Positivo,28+,3,3
-26,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,2,Regular,12.9217,77.5936,Não,Negativo,25-27,2,2
-31,Feminino,Casado(a),Do lar,Sem renda,Graduação,5,Frequente,13.0078,77.5577,Sim,Positivo,28+,0,2
-27,Feminino,Casado(a),Autônomo(a),Rs.25–50 mil,Graduação,3,Regular,13.0078,77.5577,Sim,Positivo,25-27,3,2
-21,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,1,Novo,12.9217,77.5936,Sim,Positivo,18-21,0,3
-23,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.9105,77.4842,Não,Positivo,22-24,0,2
-26,Masculino,Casado(a),Empregado(a),Rs.10–25 mil,Graduação,4,Frequente,12.9105,77.4842,Não,Positivo,25-27,2,2
-32,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,5,Frequente,12.9037,77.5376,Sim,Positivo,28+,4,2
-25,Feminino,Casado(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.8834,77.5486,Sim,Positivo,25-27,0,3
-28,Masculino,Solteiro(a),Autônomo(a),Rs.10–25 mil,Pós-graduação,2,Regular,12.9149,77.5635,Sim,Positivo,28+,2,3
-21,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9149,77.5635,Sim,Positivo,18-21,0,3
-24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.9706,77.6529,Sim,Positivo,22-24,0,3
-26,Feminino,Casado(a),Autônomo(a),Rs.10–25 mil,Graduação,5,Frequente,12.9706,77.6529,Não,Negativo,25-27,2,2
-32,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,12.9706,77.6529,Sim,Positivo,28+,3,2
-29,Masculino,Solteiro(a),Autônomo(a),Acima de Rs.50 mil,Graduação,6,Frequente,12.8845,77.6036,Sim,Positivo,28+,4,2
-21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,5,Frequente,12.9783,77.6408,Sim,Positivo,18-21,0,2
-24,Feminino,Solteiro(a),Autônomo(a),Rs.25–50 mil,Pós-graduação,3,Regular,13.0103,77.5796,Não,Negativo,22-24,3,3
-26,Masculino,Prefere não dizer,Autônomo(a),Acima de Rs.50 mil,Pós-graduação,2,Regular,13.0103,77.5796,Sim,Positivo,25-27,4,3
-25,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,3,Regular,12.9306,77.5434,Sim,Positivo,25-27,4,4
-29,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,13.0641,77.5931,Não,Negativo,28+,3,2
-22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,13.0158,77.539,Sim,Positivo,22-24,0,2
-24,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.9561,77.5921,Sim,Positivo,22-24,0,2
-27,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,2,Regular,12.8845,77.6036,Sim,Positivo,25-27,3,2
-23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9369,77.6407,Não,Positivo,22-24,0,3
-32,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,6,Frequente,12.9369,77.6407,Sim,Positivo,28+,4,3
-22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.9369,77.6407,Sim,Positivo,22-24,0,2
-28,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,12.9369,77.6407,Sim,Positivo,28+,3,2
-23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,13.0158,77.539,Sim,Positivo,22-24,0,3
-30,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,1,Novo,13.0809,77.5565,Não,Negativo,28+,4,2
-21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,13.0641,77.5931,Sim,Positivo,18-21,0,2
-26,Feminino,Casado(a),Empregado(a),Até Rs.10 mil,Graduação,6,Frequente,12.9859,77.6713,Não,Negativo,25-27,1,2
-25,Masculino,Solteiro(a),Autônomo(a),Acima de Rs.50 mil,Ensino básico,3,Regular,12.9859,77.6713,Sim,Positivo,25-27,4,1
-31,Masculino,Prefere não dizer,Empregado(a),Até Rs.10 mil,Graduação,1,Novo,12.9866,77.4904,Não,Negativo,28+,1,2
-23,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,12.9847,77.5491,Sim,Positivo,22-24,3,3
-29,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Doutorado,3,Regular,12.9847,77.5491,Sim,Positivo,28+,3,4
-21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,6,Frequente,12.9847,77.5491,Sim,Positivo,18-21,0,2
-20,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,12.9299,77.6848,Sim,Positivo,18-21,0,2
-22,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,2,Regular,12.9299,77.6848,Sim,Positivo,22-24,2,2
-30,Feminino,Casado(a),Do lar,Sem renda,Ensino básico,6,Frequente,12.9828,77.6131,Não,Positivo,28+,0,1
-27,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,3,Regular,12.989,77.5332,Sim,Positivo,25-27,4,2
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,12.977,77.5773,Não,Negativo,22-24,0,3
-30,Masculino,Casado(a),Autônomo(a),Rs.25–50 mil,Ensino básico,6,Frequente,12.9251,77.4992,Não,Negativo,28+,3,1
-23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,12.9967,77.7582,Sim,Positivo,22-24,0,3
-28,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Pós-graduação,6,Frequente,12.9967,77.7582,Não,Negativo,28+,3,3
-30,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,6,Frequente,12.9967,77.7582,Sim,Positivo,28+,4,2
-24,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,12.957,77.5637,Sim,Negativo,22-24,3,3
-21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.957,77.5637,Não,Negativo,18-21,0,2
-23,Feminino,Prefere não dizer,Empregado(a),Rs.10–25 mil,Graduação,3,Regular,12.9889,77.5741,Não,Negativo,22-24,2,2
-25,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Pós-graduação,4,Frequente,13.0206,77.6479,Sim,Positivo,25-27,4,3
-24,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,2,Regular,12.8893,77.6399,Sim,Positivo,22-24,3,2
-26,Masculino,Casado(a),Empregado(a),Rs.10–25 mil,Graduação,3,Regular,12.8893,77.6399,Não,Negativo,25-27,2,2
-25,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,12.9967,77.7582,Sim,Positivo,25-27,3,3
-22,Masculino,Solteiro(a),Estudante,Rs.25–50 mil,Graduação,3,Regular,12.9783,77.6408,Sim,Positivo,22-24,3,2
-26,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,12.9783,77.6408,Sim,Positivo,25-27,3,3
-23,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,2,Regular,12.9925,77.5633,Sim,Positivo,22-24,2,2
-21,Feminino,Solteiro(a),Empregado(a),Até Rs.10 mil,Graduação,2,Regular,12.9925,77.5633,Não,Negativo,18-21,1,2
-25,Masculino,Casado(a),Autônomo(a),Rs.25–50 mil,Graduação,3,Regular,12.9561,77.5921,Sim,Positivo,25-27,3,2
-24,Feminino,Casado(a),Empregado(a),Rs.10–25 mil,Pós-graduação,2,Regular,12.9561,77.5921,Sim,Positivo,22-24,2,3
-22,Masculino,Casado(a),Estudante,Sem renda,Graduação,2,Regular,13.0734,77.5464,Sim,Positivo,22-24,0,2
-24,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,3,Regular,12.9515,77.4921,Sim,Positivo,22-24,4,3
-22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,12.9515,77.4921,Sim,Positivo,22-24,0,2
-30,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,5,Frequente,12.9719,77.5128,Não,Negativo,28+,4,2
-23,Feminino,Prefere não dizer,Empregado(a),Rs.10–25 mil,Graduação,4,Frequente,12.9048,77.6821,Sim,Positivo,22-24,2,2
-19,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,6,Frequente,12.9048,77.6821,Sim,Positivo,18-21,0,2
-21,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,13.0103,77.5796,Sim,Positivo,18-21,0,2
-23,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,13.0103,77.5796,Sim,Positivo,22-24,0,2
-24,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,12.8893,77.6399,Sim,Positivo,22-24,3,2
-26,Feminino,Casado(a),Empregado(a),Rs.10–25 mil,Pós-graduação,2,Regular,12.9828,77.6131,Não,Positivo,25-27,2,3
-26,Feminino,Solteiro(a),Estudante,Sem renda,Doutorado,2,Regular,12.9757,77.5586,Sim,Positivo,25-27,0,4
-25,Feminino,Solteiro(a),Estudante,Rs.10–25 mil,Graduação,2,Regular,12.9757,77.5586,Sim,Positivo,25-27,2,2
-28,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,5,Frequente,12.9757,77.5586,Não,Negativo,28+,3,2
-25,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,13.0734,77.5464,Sim,Positivo,25-27,0,3
-20,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,13.0734,77.5464,Sim,Positivo,18-21,0,2
-27,Feminino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,6,Frequente,13.0734,77.5464,Não,Positivo,25-27,4,2
-25,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,13.0626,77.5284,Não,Positivo,25-27,3,2
-24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,13.0626,77.5284,Não,Negativo,22-24,0,3
-25,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,1,Novo,12.977,77.5773,Não,Negativo,25-27,4,2
-25,Feminino,Prefere não dizer,Empregado(a),Rs.25–50 mil,Pós-graduação,3,Regular,12.998,77.6227,Não,Negativo,25-27,3,3
-24,Feminino,Casado(a),Estudante,Até Rs.10 mil,Doutorado,5,Frequente,13.0626,77.5284,Sim,Positivo,22-24,1,4
-24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,13.0626,77.5284,Sim,Positivo,22-24,0,3
-22,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,1,Novo,13.0138,77.5877,Sim,Positivo,22-24,2,2
-28,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,13.0138,77.5877,Não,Negativo,28+,3,3
-25,Feminino,Solteiro(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,6,Frequente,13.014,77.5658,Não,Negativo,25-27,4,3
-21,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,3,Regular,12.9306,77.5434,Sim,Positivo,18-21,4,4
-27,Masculino,Casado(a),Autônomo(a),Rs.25–50 mil,Graduação,6,Frequente,12.9217,77.5936,Não,Positivo,25-27,3,2
-22,Masculino,Casado(a),Autônomo(a),Rs.10–25 mil,Ensino básico,3,Regular,12.982,77.6256,Sim,Negativo,22-24,2,1
-29,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,12.9783,77.6408,Não,Positivo,28+,3,2
-21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,13.0012,77.5995,Não,Positivo,18-21,0,2
-31,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,3,Regular,12.9306,77.5434,Sim,Positivo,28+,4,4
-30,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,6,Frequente,12.9369,77.6407,Sim,Positivo,28+,4,3
-21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,13.0641,77.5931,Sim,Negativo,18-21,0,2
-23,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,2,Regular,12.977,77.5773,Sim,Positivo,22-24,1,3
+idade,genero,estado_civil,ocupacao,renda_mensal,escolaridade,tamanho_familia,tipo_cliente,pede_novamente,feedback,faixa_etaria,renda_nivel,escolaridade_nivel
+20,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,18-21,0,3
+24,Feminino,Solteiro(a),Estudante,Até Rs.10 mil,Graduação,3,Regular,Sim,Positivo,22-24,1,2
+22,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,3,Regular,Sim,Negativo,22-24,1,3
+22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,6,Frequente,Sim,Positivo,22-24,0,2
+22,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,4,Frequente,Sim,Positivo,22-24,1,3
+27,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,2,Regular,Sim,Positivo,25-27,4,3
+22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Positivo,22-24,0,2
+24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,22-24,0,3
+22,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,Sim,Positivo,22-24,0,3
+23,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,2,Regular,Sim,Negativo,22-24,1,3
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,Sim,Positivo,22-24,0,3
+21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,Sim,Positivo,18-21,0,2
+23,Feminino,Solteiro(a),Autônomo(a),Rs.10–25 mil,Pós-graduação,5,Frequente,Sim,Positivo,22-24,2,3
+24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,6,Frequente,Sim,Positivo,22-24,0,3
+28,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,Sim,Positivo,28+,3,3
+23,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Negativo,22-24,0,2
+25,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,Sim,Negativo,25-27,0,2
+21,Feminino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,1,Novo,Sim,Positivo,18-21,1,3
+24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,22-24,0,3
+22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,Sim,Positivo,22-24,0,2
+23,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,Sim,Positivo,22-24,0,2
+21,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,3,Regular,Sim,Positivo,18-21,1,3
+25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,25-27,0,3
+22,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,Sim,Positivo,22-24,0,3
+22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+23,Feminino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,3,Regular,Sim,Positivo,22-24,2,2
+22,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,4,Frequente,Sim,Positivo,22-24,1,3
+22,Feminino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,5,Frequente,Sim,Positivo,22-24,2,2
+22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,22-24,0,3
+25,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,4,Frequente,Sim,Positivo,25-27,4,4
+22,Feminino,Solteiro(a),Estudante,Rs.10–25 mil,Pós-graduação,5,Frequente,Sim,Positivo,22-24,2,3
+22,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+25,Masculino,Solteiro(a),Estudante,Rs.10–25 mil,Pós-graduação,3,Regular,Sim,Positivo,25-27,2,3
+25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,Não,Positivo,25-27,0,3
+32,Feminino,Prefere não dizer,Do lar,Sem renda,Graduação,5,Frequente,Sim,Negativo,28+,0,2
+23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,22-24,0,3
+30,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Sem escolaridade,4,Frequente,Sim,Negativo,28+,4,0
+23,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Positivo,22-24,0,2
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,22-24,0,3
+22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,5,Frequente,Sim,Positivo,22-24,0,2
+27,Feminino,Casado(a),Autônomo(a),Rs.10–25 mil,Pós-graduação,2,Regular,Sim,Positivo,25-27,2,3
+24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+23,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,5,Frequente,Sim,Positivo,22-24,0,2
+23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,25-27,0,3
+22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+28,Feminino,Casado(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,28+,0,2
+22,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,1,Novo,Sim,Positivo,22-24,0,3
+24,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Positivo,22-24,0,2
+31,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,5,Frequente,Sim,Positivo,28+,4,4
+25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,25-27,0,3
+22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+23,Masculino,Solteiro(a),Estudante,Rs.25–50 mil,Pós-graduação,1,Novo,Sim,Positivo,22-24,3,3
+23,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,Sim,Positivo,22-24,0,2
+23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,6,Frequente,Sim,Positivo,25-27,0,3
+24,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,4,Frequente,Sim,Positivo,22-24,2,2
+23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,22-24,0,3
+24,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,4,Frequente,Sim,Positivo,22-24,4,4
+22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,Sim,Positivo,22-24,0,2
+24,Feminino,Solteiro(a),Estudante,Rs.10–25 mil,Pós-graduação,3,Regular,Não,Positivo,22-24,2,3
+25,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,25-27,0,3
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+26,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,25-27,0,3
+24,Feminino,Solteiro(a),Estudante,Rs.25–50 mil,Pós-graduação,3,Regular,Sim,Positivo,22-24,3,3
+26,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,25-27,0,3
+22,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,Sim,Positivo,22-24,0,3
+24,Masculino,Solteiro(a),Estudante,Rs.10–25 mil,Pós-graduação,4,Frequente,Sim,Positivo,22-24,2,3
+23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,22-24,0,3
+25,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,1,Novo,Sim,Positivo,25-27,0,2
+28,Masculino,Casado(a),Autônomo(a),Rs.10–25 mil,Graduação,2,Regular,Não,Negativo,28+,2,2
+27,Feminino,Prefere não dizer,Empregado(a),Rs.25–50 mil,Pós-graduação,5,Frequente,Não,Positivo,25-27,3,3
+26,Masculino,Solteiro(a),Autônomo(a),Rs.10–25 mil,Doutorado,1,Novo,Não,Positivo,25-27,2,4
+22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,1,Novo,Sim,Positivo,22-24,0,3
+26,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,5,Frequente,Não,Positivo,25-27,3,2
+32,Feminino,Casado(a),Do lar,Sem renda,Sem escolaridade,3,Regular,Não,Positivo,28+,0,0
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+22,Feminino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,3,Regular,Sim,Positivo,22-24,2,2
+24,Feminino,Solteiro(a),Estudante,Sem renda,Doutorado,3,Regular,Sim,Positivo,22-24,0,4
+26,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,2,Regular,Sim,Negativo,25-27,3,2
+28,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,3,Regular,Não,Positivo,28+,4,2
+26,Masculino,Solteiro(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,2,Regular,Não,Positivo,25-27,4,3
+25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,1,Novo,Sim,Positivo,25-27,0,3
+25,Masculino,Solteiro(a),Empregado(a),Até Rs.10 mil,Graduação,2,Regular,Não,Positivo,25-27,1,2
+18,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,5,Frequente,Sim,Positivo,18-21,0,2
+21,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,18-21,0,3
+25,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,2,Regular,Sim,Positivo,25-27,1,3
+23,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Pós-graduação,2,Regular,Sim,Positivo,22-24,2,3
+25,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,Não,Negativo,25-27,3,2
+31,Feminino,Casado(a),Do lar,Sem renda,Ensino básico,5,Frequente,Sim,Positivo,28+,0,1
+24,Masculino,Prefere não dizer,Autônomo(a),Acima de Rs.50 mil,Doutorado,2,Regular,Não,Positivo,22-24,4,4
+32,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,5,Frequente,Sim,Positivo,28+,3,2
+25,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,25-27,3,2
+27,Feminino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,5,Frequente,Não,Positivo,25-27,4,2
+26,Masculino,Solteiro(a),Autônomo(a),Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,25-27,3,2
+26,Feminino,Solteiro(a),Autônomo(a),Rs.25–50 mil,Pós-graduação,3,Regular,Sim,Positivo,25-27,3,3
+32,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,5,Frequente,Sim,Negativo,28+,4,4
+24,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Doutorado,6,Frequente,Não,Negativo,22-24,4,4
+27,Feminino,Casado(a),Autônomo(a),Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,25-27,3,2
+25,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,25-27,0,3
+28,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,3,Regular,Sim,Positivo,28+,4,3
+32,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,1,Novo,Não,Positivo,28+,4,2
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+19,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Não,Negativo,18-21,0,2
+19,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,Sim,Positivo,18-21,0,2
+27,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,Não,Positivo,25-27,3,3
+25,Masculino,Solteiro(a),Autônomo(a),Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,25-27,3,2
+33,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,5,Frequente,Não,Negativo,28+,4,4
+26,Feminino,Solteiro(a),Empregado(a),Acima de Rs.50 mil,Graduação,3,Regular,Sim,Positivo,25-27,4,2
+22,Feminino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,4,Frequente,Sim,Positivo,22-24,1,3
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Não,Positivo,22-24,0,3
+22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Negativo,22-24,0,2
+25,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,2,Regular,Sim,Positivo,25-27,3,2
+30,Feminino,Casado(a),Do lar,Sem renda,Ensino básico,5,Frequente,Sim,Positivo,28+,0,1
+24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Não,Negativo,22-24,0,3
+25,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Pós-graduação,3,Regular,Sim,Positivo,25-27,2,3
+23,Masculino,Solteiro(a),Estudante,Acima de Rs.50 mil,Pós-graduação,3,Regular,Sim,Positivo,22-24,4,3
+24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,22-24,0,3
+32,Masculino,Casado(a),Empregado(a),Rs.10–25 mil,Graduação,4,Frequente,Sim,Positivo,28+,2,2
+22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,4,Frequente,Sim,Positivo,22-24,0,3
+20,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,18-21,0,2
+21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,18-21,0,2
+24,Feminino,Casado(a),Autônomo(a),Rs.10–25 mil,Graduação,5,Frequente,Sim,Positivo,22-24,2,2
+25,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,3,Regular,Sim,Positivo,25-27,3,3
+32,Feminino,Casado(a),Do lar,Sem renda,Graduação,3,Regular,Sim,Positivo,28+,0,2
+27,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,5,Frequente,Não,Negativo,25-27,4,4
+20,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,18-21,0,2
+21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,18-21,0,2
+26,Masculino,Solteiro(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,3,Regular,Não,Negativo,25-27,4,3
+25,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,4,Frequente,Sim,Positivo,25-27,2,2
+26,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,3,Regular,Sim,Positivo,25-27,3,3
+26,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,25-27,3,2
+27,Masculino,Solteiro(a),Empregado(a),Acima de Rs.50 mil,Doutorado,4,Frequente,Não,Positivo,25-27,4,4
+27,Feminino,Solteiro(a),Estudante,Sem renda,Doutorado,5,Frequente,Não,Negativo,25-27,0,4
+24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,Sim,Positivo,22-24,0,3
+25,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Ensino básico,2,Regular,Sim,Positivo,25-27,4,1
+20,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Não,Negativo,18-21,0,2
+22,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,1,Novo,Sim,Positivo,22-24,0,3
+26,Feminino,Casado(a),Estudante,Até Rs.10 mil,Doutorado,3,Regular,Sim,Positivo,25-27,1,4
+27,Masculino,Prefere não dizer,Empregado(a),Rs.25–50 mil,Pós-graduação,1,Novo,Sim,Positivo,25-27,3,3
+25,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,25-27,0,3
+24,Masculino,Solteiro(a),Empregado(a),Até Rs.10 mil,Graduação,2,Regular,Sim,Positivo,22-24,1,2
+23,Feminino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,6,Frequente,Sim,Positivo,22-24,2,2
+22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Não,Positivo,22-24,0,2
+26,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Pós-graduação,3,Regular,Não,Negativo,25-27,4,3
+26,Masculino,Solteiro(a),Empregado(a),Até Rs.10 mil,Pós-graduação,1,Novo,Sim,Negativo,25-27,1,3
+25,Feminino,Casado(a),Autônomo(a),Rs.25–50 mil,Pós-graduação,3,Regular,Não,Positivo,25-27,3,3
+29,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,3,Regular,Não,Positivo,28+,4,2
+23,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Graduação,3,Regular,Sim,Negativo,22-24,1,2
+22,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,Sim,Positivo,22-24,3,2
+22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Não,Positivo,22-24,0,2
+32,Feminino,Casado(a),Do lar,Sem renda,Ensino básico,5,Frequente,Sim,Positivo,28+,0,1
+28,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,1,Novo,Sim,Positivo,28+,4,3
+25,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,2,Regular,Sim,Positivo,25-27,2,2
+26,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,Não,Negativo,25-27,3,3
+31,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Ensino básico,6,Frequente,Sim,Positivo,28+,4,1
+24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Não,Negativo,22-24,0,3
+24,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,Sim,Positivo,22-24,3,3
+31,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,5,Frequente,Sim,Positivo,28+,4,4
+26,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,2,Regular,Sim,Positivo,25-27,3,2
+24,Feminino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,2,Regular,Sim,Positivo,22-24,4,2
+22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Positivo,22-24,0,2
+19,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,6,Frequente,Sim,Positivo,18-21,0,2
+25,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,6,Frequente,Sim,Positivo,25-27,4,3
+23,Feminino,Casado(a),Do lar,Sem renda,Ensino básico,6,Frequente,Sim,Positivo,22-24,0,1
+23,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Não,Negativo,22-24,0,2
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,Sim,Positivo,22-24,0,3
+22,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,Sim,Positivo,22-24,3,2
+26,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,4,Frequente,Sim,Positivo,25-27,4,2
+25,Feminino,Solteiro(a),Estudante,Sem renda,Doutorado,3,Regular,Sim,Positivo,25-27,0,4
+20,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,18-21,0,2
+29,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,Não,Negativo,28+,3,2
+23,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,1,Novo,Sim,Positivo,22-24,0,2
+25,Masculino,Solteiro(a),Autônomo(a),Acima de Rs.50 mil,Graduação,2,Regular,Sim,Positivo,25-27,4,2
+29,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,Não,Negativo,28+,3,2
+27,Masculino,Casado(a),Autônomo(a),Rs.25–50 mil,Graduação,6,Frequente,Não,Negativo,25-27,3,2
+25,Masculino,Solteiro(a),Autônomo(a),Rs.10–25 mil,Graduação,3,Regular,Sim,Positivo,25-27,2,2
+21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Não,Negativo,18-21,0,2
+23,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Positivo,22-24,0,2
+24,Feminino,Solteiro(a),Empregado(a),Rs.10–25 mil,Pós-graduação,4,Frequente,Sim,Positivo,22-24,2,3
+32,Masculino,Casado(a),Autônomo(a),Rs.10–25 mil,Ensino básico,3,Regular,Sim,Negativo,28+,2,1
+28,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Pós-graduação,5,Frequente,Sim,Positivo,28+,3,3
+26,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,2,Regular,Não,Negativo,25-27,2,2
+31,Feminino,Casado(a),Do lar,Sem renda,Graduação,5,Frequente,Sim,Positivo,28+,0,2
+27,Feminino,Casado(a),Autônomo(a),Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,25-27,3,2
+21,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,1,Novo,Sim,Positivo,18-21,0,3
+23,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Não,Positivo,22-24,0,2
+26,Masculino,Casado(a),Empregado(a),Rs.10–25 mil,Graduação,4,Frequente,Não,Positivo,25-27,2,2
+32,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,5,Frequente,Sim,Positivo,28+,4,2
+25,Feminino,Casado(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,25-27,0,3
+28,Masculino,Solteiro(a),Autônomo(a),Rs.10–25 mil,Pós-graduação,2,Regular,Sim,Positivo,28+,2,3
+21,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,18-21,0,3
+24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+26,Feminino,Casado(a),Autônomo(a),Rs.10–25 mil,Graduação,5,Frequente,Não,Negativo,25-27,2,2
+32,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,28+,3,2
+29,Masculino,Solteiro(a),Autônomo(a),Acima de Rs.50 mil,Graduação,6,Frequente,Sim,Positivo,28+,4,2
+21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,5,Frequente,Sim,Positivo,18-21,0,2
+24,Feminino,Solteiro(a),Autônomo(a),Rs.25–50 mil,Pós-graduação,3,Regular,Não,Negativo,22-24,3,3
+26,Masculino,Prefere não dizer,Autônomo(a),Acima de Rs.50 mil,Pós-graduação,2,Regular,Sim,Positivo,25-27,4,3
+25,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,3,Regular,Sim,Positivo,25-27,4,4
+29,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,Não,Negativo,28+,3,2
+22,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Positivo,22-24,0,2
+24,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,22-24,0,2
+27,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,2,Regular,Sim,Positivo,25-27,3,2
+23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Não,Positivo,22-24,0,3
+32,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,6,Frequente,Sim,Positivo,28+,4,3
+22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,22-24,0,2
+28,Masculino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,28+,3,2
+23,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Sim,Positivo,22-24,0,3
+30,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,1,Novo,Não,Negativo,28+,4,2
+21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Positivo,18-21,0,2
+26,Feminino,Casado(a),Empregado(a),Até Rs.10 mil,Graduação,6,Frequente,Não,Negativo,25-27,1,2
+25,Masculino,Solteiro(a),Autônomo(a),Acima de Rs.50 mil,Ensino básico,3,Regular,Sim,Positivo,25-27,4,1
+31,Masculino,Prefere não dizer,Empregado(a),Até Rs.10 mil,Graduação,1,Novo,Não,Negativo,28+,1,2
+23,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,Sim,Positivo,22-24,3,3
+29,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Doutorado,3,Regular,Sim,Positivo,28+,3,4
+21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,6,Frequente,Sim,Positivo,18-21,0,2
+20,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Positivo,18-21,0,2
+22,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,2,Regular,Sim,Positivo,22-24,2,2
+30,Feminino,Casado(a),Do lar,Sem renda,Ensino básico,6,Frequente,Não,Positivo,28+,0,1
+27,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,3,Regular,Sim,Positivo,25-27,4,2
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,2,Regular,Não,Negativo,22-24,0,3
+30,Masculino,Casado(a),Autônomo(a),Rs.25–50 mil,Ensino básico,6,Frequente,Não,Negativo,28+,3,1
+23,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+28,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Pós-graduação,6,Frequente,Não,Negativo,28+,3,3
+30,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,6,Frequente,Sim,Positivo,28+,4,2
+24,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,Sim,Negativo,22-24,3,3
+21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Não,Negativo,18-21,0,2
+23,Feminino,Prefere não dizer,Empregado(a),Rs.10–25 mil,Graduação,3,Regular,Não,Negativo,22-24,2,2
+25,Masculino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Pós-graduação,4,Frequente,Sim,Positivo,25-27,4,3
+24,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,2,Regular,Sim,Positivo,22-24,3,2
+26,Masculino,Casado(a),Empregado(a),Rs.10–25 mil,Graduação,3,Regular,Não,Negativo,25-27,2,2
+25,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,Sim,Positivo,25-27,3,3
+22,Masculino,Solteiro(a),Estudante,Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,22-24,3,2
+26,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,Sim,Positivo,25-27,3,3
+23,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,2,Regular,Sim,Positivo,22-24,2,2
+21,Feminino,Solteiro(a),Empregado(a),Até Rs.10 mil,Graduação,2,Regular,Não,Negativo,18-21,1,2
+25,Masculino,Casado(a),Autônomo(a),Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,25-27,3,2
+24,Feminino,Casado(a),Empregado(a),Rs.10–25 mil,Pós-graduação,2,Regular,Sim,Positivo,22-24,2,3
+22,Masculino,Casado(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,22-24,0,2
+24,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,3,Regular,Sim,Positivo,22-24,4,3
+22,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,22-24,0,2
+30,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,5,Frequente,Não,Negativo,28+,4,2
+23,Feminino,Prefere não dizer,Empregado(a),Rs.10–25 mil,Graduação,4,Frequente,Sim,Positivo,22-24,2,2
+19,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,6,Frequente,Sim,Positivo,18-21,0,2
+21,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,18-21,0,2
+23,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,4,Frequente,Sim,Positivo,22-24,0,2
+24,Feminino,Solteiro(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,Sim,Positivo,22-24,3,2
+26,Feminino,Casado(a),Empregado(a),Rs.10–25 mil,Pós-graduação,2,Regular,Não,Positivo,25-27,2,3
+26,Feminino,Solteiro(a),Estudante,Sem renda,Doutorado,2,Regular,Sim,Positivo,25-27,0,4
+25,Feminino,Solteiro(a),Estudante,Rs.10–25 mil,Graduação,2,Regular,Sim,Positivo,25-27,2,2
+28,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,5,Frequente,Não,Negativo,28+,3,2
+25,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,25-27,0,3
+20,Feminino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Sim,Positivo,18-21,0,2
+27,Feminino,Casado(a),Autônomo(a),Acima de Rs.50 mil,Graduação,6,Frequente,Não,Positivo,25-27,4,2
+25,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,3,Regular,Não,Positivo,25-27,3,2
+24,Feminino,Solteiro(a),Estudante,Sem renda,Pós-graduação,5,Frequente,Não,Negativo,22-24,0,3
+25,Feminino,Casado(a),Empregado(a),Acima de Rs.50 mil,Graduação,1,Novo,Não,Negativo,25-27,4,2
+25,Feminino,Prefere não dizer,Empregado(a),Rs.25–50 mil,Pós-graduação,3,Regular,Não,Negativo,25-27,3,3
+24,Feminino,Casado(a),Estudante,Até Rs.10 mil,Doutorado,5,Frequente,Sim,Positivo,22-24,1,4
+24,Masculino,Solteiro(a),Estudante,Sem renda,Pós-graduação,3,Regular,Sim,Positivo,22-24,0,3
+22,Masculino,Solteiro(a),Empregado(a),Rs.10–25 mil,Graduação,1,Novo,Sim,Positivo,22-24,2,2
+28,Masculino,Solteiro(a),Empregado(a),Rs.25–50 mil,Pós-graduação,2,Regular,Não,Negativo,28+,3,3
+25,Feminino,Solteiro(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,6,Frequente,Não,Negativo,25-27,4,3
+21,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,3,Regular,Sim,Positivo,18-21,4,4
+27,Masculino,Casado(a),Autônomo(a),Rs.25–50 mil,Graduação,6,Frequente,Não,Positivo,25-27,3,2
+22,Masculino,Casado(a),Autônomo(a),Rs.10–25 mil,Ensino básico,3,Regular,Sim,Negativo,22-24,2,1
+29,Feminino,Casado(a),Empregado(a),Rs.25–50 mil,Graduação,4,Frequente,Não,Positivo,28+,3,2
+21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,2,Regular,Não,Positivo,18-21,0,2
+31,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Doutorado,3,Regular,Sim,Positivo,28+,4,4
+30,Masculino,Casado(a),Empregado(a),Acima de Rs.50 mil,Pós-graduação,6,Frequente,Sim,Positivo,28+,4,3
+21,Masculino,Solteiro(a),Estudante,Sem renda,Graduação,3,Regular,Sim,Negativo,18-21,0,2
+23,Masculino,Solteiro(a),Estudante,Até Rs.10 mil,Pós-graduação,2,Regular,Sim,Positivo,22-24,1,3

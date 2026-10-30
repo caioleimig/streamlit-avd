@@ -89,9 +89,9 @@ Para regenerar o dado tratado, execute `notebooks/eda-com-downloads.ipynb` do in
 | Pasta | Versionada? | Conteúdo |
 |---|---|---|
 | `data/raw/` | **Não** (só o `.gitkeep`) | CSV original do Kaggle, 388 linhas. |
-| `data/clean/` | **Sim** | 285 linhas após o tratamento da EDA: duplicatas removidas, coluna redundante `Unnamed: 13` descartada, espaços extras limpos. Categorias traduzidas para português, mais `faixa_etaria`, `renda_nivel` e `escolaridade_nivel` (ordinais 0–4). `Pin code` removido. |
+| `data/clean/` | **Sim** | 285 linhas após o tratamento da EDA: duplicatas removidas, coluna redundante `Unnamed: 13` descartada, espaços extras limpos. Categorias traduzidas para português, mais `faixa_etaria`, `renda_nivel` e `escolaridade_nivel` (ordinais 0–4). `Pin code`, `latitude` e `longitude` removidos. |
 
-O dataset é público (Kaggle) e não contém nomes, documentos ou contatos. `latitude`/`longitude` são centroides de áreas de CEP, não endereços, e o app não exibe mapa.
+O dataset é público (Kaggle) e não contém nomes, documentos ou contatos. O CSV original traz `latitude`/`longitude` (centroides de áreas de CEP, não endereços); mesmo assim, as coordenadas foram removidas do dado tratado por precaução, já que o app não as usa e não exibe mapa.
 
 **Sobre `Output`:** o dataset não documenta formalmente essa coluna. Seguimos a leitura mais comum dele, de que `Yes` indica que o cliente **pediria novamente** pelo app (`pede_novamente` no dado tratado).
 
