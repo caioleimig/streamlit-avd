@@ -20,13 +20,13 @@ Em seguida enviei a minha EDA da Aula 11 (Online Food Delivery) como base. Os pr
 ## Para que a IA foi usada
 
 - Pipeline de dados (`notebooks/eda-com-downloads.ipynb`), `app.py`, `src/` e testes.
-- Propor e redigir a justificativa das métricas a partir dos achados da minha EDA.
+- Implementar no app as métricas do Dashboard 2, que eu escolhi e justifiquei a partir da minha EDA.
 - Gerar os wireframes (`entregas/wireframe-dashboard*.png`); os rascunhos à mão são meus.
 - Organizar README e estrutura do repositório.
 
 ## O que foi aceito, modificado ou rejeitado
 
-- **Aceito:** duas abas com filtros na sidebar (Dashboard 1) e no topo (Dashboard 2); as 4 métricas, por virem de achados da minha EDA; cache e caminhos relativos.
+- **Aceito:** duas abas com filtros na sidebar (Dashboard 1) e no topo (Dashboard 2); a implementação das 4 métricas que defini; cache e caminhos relativos.
 - **Modificado:** renda e escolaridade entraram como ordinais (Spearman padrão); paleta trocada por laranja + azul, legível para daltonismo; correção da formatação dos deltas dos KPIs.
 - **Rejeitado:** mapa com localização dos clientes (latitude, longitude e `Pin code` foram removidos do dado tratado por precaução) e cópia do Dashboard 1 do repositório-modelo.
 
